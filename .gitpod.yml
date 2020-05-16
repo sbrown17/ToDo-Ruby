@@ -19,3 +19,6 @@ github:
     addCheck: true
     # add a "Review in Gitpod" button as a comment to pull requests (defaults to false)
     addComment: false
+vscode:
+  extensions:
+    - bung87.rails@0.16.4:aHz6MDL2HyKKahKWJ9KF2g==
